@@ -83,26 +83,6 @@ Focus on fundamental computer vision and deep learning concepts
 ├── requirements.txt
 └── README.md
 
-▶️ How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/your-username/facial-mood-detection.git
-
-
-Install required dependencies
-
-pip install -r requirements.txt
-
-
-Train the model
-
-python train.py
-
-
-Run prediction
-
-python predict.py
 
 📈 Results
 
