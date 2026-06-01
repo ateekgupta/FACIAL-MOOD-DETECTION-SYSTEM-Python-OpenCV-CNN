@@ -39,7 +39,7 @@ CK+ (Extended Cohn-Kanade) Dataset
 
 Data Collection & Preprocessing
 
-Loaded facial expression images from the CK+ dataset
+Loaded facial expression images from the CK+ dataset (https://www.kaggle.com/datasets/shuvoalok/ck-dataset)
 
 Converted images to grayscale and resized them for consistency
 
